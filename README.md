@@ -20,14 +20,14 @@ We learned more about application and cloud database integration. We also learne
 It has a great scope of extent. We can recommend more with food and write blogs in our application with benefits of each food item. We can expand the app by reaching larger area and cover more restaurants. This app is almost of no cost and is really scalable which makes is very efficient. It is very easy to use and can have a lot more features to help more people.
 
 ## Built With
-# java
-# twilio
-# clarifai
-# google-cloud
-# east-street
-# edamam-nutrition
-# javascript
-# domain
-# json
-# sql
-# python
+ java
+ twilio
+ clarifai
+ google-cloud
+ east-street
+ edamam-nutrition
+ javascript
+ domain
+ json
+ sql
+ python
